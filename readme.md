@@ -5,6 +5,10 @@ This project is led by [chronodivide-downloader](https://github.com/webra2/chron
 
 注意: 部署以后的版本可以使用单机模式(演示模式选择轻松的电脑).
 
+### 一键部署到Vercel
+
+[![一键部署到Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/sunshine2077/webra2.github.io)
+
 ### 一键部署到腾讯云
 [![](https://cloudbase.net/deploy.svg)](https://console.cloud.tencent.com/webify/new?tpl=https%3A%2F%2Fgithub.com%2Fwebra2%2Fwebra2.github.io&dir=%2F&reponame=webra2)
 
